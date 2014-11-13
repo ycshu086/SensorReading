@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorReading</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensor_start">Start</string>
+    <string name="sensor_stop">Stop</string>
+    <string name="sensor_tick">Tick</string>
+    <string name="sensor_tilt">Tilt</string>
+    <string name="sensor_acc">Accelerometer</string>
+    <string name="sensor_acclin">Linear Accelerometer</string>
+	<string name="sensor_mag">Mag</string>
+    <string name="sensor_light">Light</string>
+    <string name="sensor_gyro">Gyro</string>
+    <string name="sensor_temp">Temperature</string>
+    <string name="sensor_ori">Orientation</string>
+    <string name="sensor_prox">Proximity</string>
+    <string name="sensor_step">Step</string>
+    <string name="sensor_baro">Barometer</string>
+    <string name="sensor_humi">Humidity</string>
+    
+</resources>
